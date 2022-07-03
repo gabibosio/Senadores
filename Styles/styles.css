@@ -1,0 +1,22 @@
+.dropdown-item:hover{
+    background-color: rgba(128, 128, 128, 0.432);
+}
+a{
+    text-decoration: none;
+}
+
+h1,h2,p{
+  font-family: 'Dancing Script', cursive !important;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{
+  width: 100%;
+}
+main{
+  width: 100%;
+}
